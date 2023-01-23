@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
-# app/adminute/settings.rb
-# Allows you to store some settings in Redis via ActiveAdminute without model
+# This file must be app/admin/settings.rb
+
+# Allows you to store some settings in Redis via ActiveAdmin without model
 # Simple string field and select field for time e.g. 10:35:00
 ActiveAdminute.register_page 'Settings' do
   menu priority: 2
