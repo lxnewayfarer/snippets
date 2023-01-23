@@ -1,4 +1,4 @@
-This is public repository for Ruby/Rails snippets where you can find some helpful pieces of code for any cases
+This is public repository for Ruby/Rails and other helpful snippets
 
 Check repository to explore snippets
 
