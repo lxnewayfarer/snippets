@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Add shops to subdivision and ubdate old Subdivisions with related Shops
+# Add shops to subdivision and update old Subdivisions with related Shops
 # in case when Subdivision has name like "KM123 Logistics" and Shop has number like "KM123"
 class AddShopToSubdivision < ActiveRecord::Migration[6.0]
   def up
