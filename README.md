@@ -14,6 +14,11 @@ Custom [Redcarpet](https://github.com/vmg/redcarpet) markdown renderer. May be u
 
 `custom_redcarpet_markdown_render.rb`
 ___
+### Rails, ActiveInteraction, DateTime
+Simple interactor to to determine if the current time is working or not. Returns true on weekdays from 6 to 21 and on weekend from 9 to 21 in the Moscow timezone, otherwize returns false
+
+`is_current_time_working_interactor.rb`
+___
 ### ActiveAdmin, Redis
 Modelless [ActiveAdmin](https://github.com/activeadmin/activeadmin) page implementing storing some settings in Redis. May be useful when u don't want to store data in database and need to store it some other way.
 
