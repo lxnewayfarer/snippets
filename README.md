@@ -10,7 +10,7 @@ Using class via string, inflecting and camelize given string, then search for de
 `calling_classes_from_string.rb`
 ___
 ### Markdown, HTML, rendering
-Custom [Redcarpet](https://github.com/vmg/redcarpet) markdown renderer. May be useful when you want to render markdown text to HTML when you want to use markdown text in Telegram.
+Custom [Redcarpet](https://github.com/vmg/redcarpet) markdown renderer. May be useful if you want to render markdown text to HTML when you want to use markdown text in Telegram.
 
 `custom_redcarpet_markdown_render.rb`
 ___
